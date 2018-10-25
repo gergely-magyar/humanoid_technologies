@@ -30,8 +30,8 @@ The main goal of this course is to give an overview of social robotics and human
 | **2**             | **2/10**    | :x: **cancelled** :x:     | **-**        |
 | **3**             | **9/10**    | **Experimental human-robot interaction**     | **Laurel D. Riek (2012).** Wizard of Oz studies in HRI: A systematic review and new reporting guidelines   <br>**Aaron Steinfeld et al. (2006).** Common metrics for human-robot interaction <br>**Robin Murphy, Debra Schreckenghost (2013).** Survey of metrics for human-robot interaction <br>**Paul Baxter et al. (2016).** From characterising three years of HRI to methodology and reporting recommendations | 
 | **4**             | **16/10**   | :x: **cancelled** :x:     | **-**        | 
-| **5**             | **23/10**   |      |         | 
-| **6**             | **30/10**   |      |         | 
+| **5**             | **23/10**   | **Robots and their types**     | **-**        | 
+| **6**             | **30/10**   | :x: **cancelled** :x:     | **-**        | 
 | **7**             | **6/11**    |      |         | 
 | **8**             | **13/11**   |      |         | 
 | **9**             | **20/11**   |      |         | 
